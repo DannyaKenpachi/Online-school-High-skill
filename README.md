@@ -1,2 +1,2 @@
-# Online-school-High-skill-
+# Online-school-High-skill
 special for "Проектный практикум"
